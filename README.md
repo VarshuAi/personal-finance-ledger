@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Track dynamic transactions, income, and expenses.
+  name: personal-finance-ledger version: 1.0 type: Repository author: VarshuAi description: >   Track dynamic transactions, income, and expenses. primary_tech: CSS
 primary_tech: CSS
 ```
 
